@@ -16,5 +16,3 @@ export default class Validator {
   }
 }
 
-const test1 = new Validator('ca222rNo-t');
-console.log(test1.validateUsername());
